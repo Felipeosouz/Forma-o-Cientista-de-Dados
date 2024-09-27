@@ -1,2 +1,2 @@
 # Curso Ciência de Dados
-Exercícios do curso Formação cientista de dados
+Exercícios do curso Formação cientista de dados na Udemy
